@@ -8,11 +8,11 @@ const Footer = () => {
     return ( 
         <div className="footer">
             <div className='flex'> 
-                <img src={Twitter} />
-                <img src={Insta} />
-                <img src={Linkedin} />
-                <img src={Github} />
-                <img src={Facebook} />
+                <img src={Twitter} alt="socialMedia" />
+                <img src={Insta} alt="socialMedia" />
+                <img src={Linkedin} alt="socialMedia" />
+                <img src={Github} alt="socialMedia" />
+                <img src={Facebook} alt="socialMedia" />
             </div>
         </div>
      );

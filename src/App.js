@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <h1>My Digital Card</h1>
       <div className='card'>
-      <img src={myPic} className="image"/>
+      <img src={myPic} className="image" alt="Myprofile"/>
         <Info />
         <About />
         <Footer />

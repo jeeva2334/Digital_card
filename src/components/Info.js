@@ -9,10 +9,10 @@ const Info = () =>{
             <p className='port' >jeevaportfolio.netlify.app</p>
             <div className='btn'>
                 <button className='email-btn'>
-                    <img src={email} className="logo"/>
+                    <img src={email} className="logo" alt="socialMedia"/>
                     Email</button>
                 <button className='linkedin-btn'>
-                    <img src={Linkedin} className="logo1" />
+                    <img src={Linkedin} className="logo1"  alt="socialMedia" />
                     Linkedin</button>
             </div>
         </div>
